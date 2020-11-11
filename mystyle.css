@@ -1,0 +1,31 @@
+img {
+opacity: 0.85;
+width: 200px;
+height: 230px;
+border: 10px solid transparent;
+  padding: 15px;
+  border-radius: 18%;
+
+}
+
+body {
+  background-color: lightblue;
+}
+h1{
+font-size: 30px;
+}
+p{
+font-size: 20px;
+}
+tr:nth-child(even) {background-color: #00ff00;}
+table ,th {
+  background-color: #4CAF50;
+  color: white;
+}
+ul li {
+ background-color: #00CC00;
+ }
+ ul {
+ background-color: #4CAF50;
+list-style: square inside url("sqpurple.gif");
+ }
